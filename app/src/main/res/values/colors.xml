@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="colorRefreshBlue">#1686cc</color>
+	<color name="white">#FFFFFFFF</color>
+	<color name="blcak">#000000</color>
+	<color name="wholesalse_text">#2c98e6</color>
+	<color name="wholesalse_productprice_text">#d72f2f</color>
+	<color name="AppColor">#F2F2F6</color>
+	<color name="red">#F13030</color>
+	<color name="col_b0b0b0">#b0b0b0</color>
+	<color name="col_e9e9e9">#E9E9E9</color>
+	<color name="col_bfbfbf">#BFBFBF</color>
+	<color name="col_9b9b9b">#9B9B9B</color>
+	<color name="col_fafafa">#FAFAFA</color>
+	<color name="col_b6b6b6">#B6B6B6</color>
+	<color name="col_b4b6b6">#B4B6B6</color>
+	<color name="col_309428">#309428</color>
+	<color name="red_2154747">#D72F2F</color>
+	<color name="red_2154848">#FF3030</color>
+	<color name="col_bbbbbb">#BBBBBB</color>
+	<color name="col_333333">#333333</color>
+	<color name="col_e4e4e4">#e4e4e4</color>
+	<color name="col_aaaaaa">#aaaaaa</color>
+	<color name="col_f7f7f7">#F7F7F7</color>
+	<color name="col_646464">#646464</color>
+	<color name="col_efeff0">#efeff0</color>
+	<color name="col_ececec">#ececec</color>
+
+	<!-- Tooltip background colors  -->
+	<color name="f7f7f7">#f7f7f7</color>
+
+	<color name="primary">#FF03A9F4</color>
+	<color name="primary_dark">#FF0288D1</color>
+	<color name="col_dadada">#dadada</color>
+	<color name="col_d63030">#d63030</color>
+	<color name="col_dedede">#dedede</color>
+	<color name="col_666666">#666666</color>
+	<color name="col_f4f4f4">#f4f4f4</color>
+	<color name="col_f6f6f6">#f6f6f6</color>
+	<color name="col_ffac13">#ffac13</color>
+	<color name="col_83c44e">#83c44e</color>
+	<color name="col_2196f3">#2196f3</color>
+	<color name="col_999999">#999999</color>
+	<color name="col_c7c7c7">#c7c7c7</color>
+	<color name="col_efefef">#efefef</color>
+	<color name="col_c2c2c2">#c2c2c2</color>
+	<color name="col_f9f9f9">#f9f9f9</color>
+	<color name="col_1686cc">#1686cc</color>
+	<color name="col_ccc">#cccccc</color>
+	<color name="col_d8d8d8">#d8d8d8</color>
+	<color name="col_ebebeb">#ebebeb</color>
+	<color name="col_dfdfdf">#dfdfdf</color>
+	<color name="col_16B8DA">#16B8DA</color>
+	<color name="col_d1d1d1">#D1D1D1</color>
+	<color name="col_e2e2e2">#E2E2E2</color>
+	<color name="triangle">#aa72d572</color>
+	<color name="circle">#aa738ffe</color>
+	<color name="rect">#aae84e40</color>
+	<color name="view_bg">#00000000</color>
+	<color name="col_f37d0f">#f37d0f</color>
+	<color name="col_1cc795">#1cc795</color>
+	<color name="col_f0f0f0">#f0f0f0</color>
+	<color name="col_5dba2b">#5dba2b</color>
+	<color name="col_e6e6e6">#e6e6e6</color>
+
+</resources>

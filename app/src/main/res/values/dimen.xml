@@ -1,0 +1,7 @@
+<resources>
+
+	<dimen name="remote_artwork_bitmap_width">40dp</dimen>
+
+	<dimen name="remote_artwork_bitmap_height">40dp</dimen>
+
+</resources>

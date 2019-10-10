@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+		xmlns:android="http://schemas.android.com/apk/res/android"
+		xmlns:tools="http://schemas.android.com/tools"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		tools:context=".MainActivity"
+		android:padding="2dp">
+
+	<LinearLayout android:layout_width="match_parent"
+				  android:layout_marginLeft="2dp"
+				  android:layout_height="match_parent"
+				  android:layout_alignParentRight="true"
+				  android:orientation="vertical"
+				  android:background="@color/col_5dba2b"
+				  android:id="@+id/board_right">
+
+		<LinearLayout android:layout_width="match_parent"
+					  android:layout_height="wrap_content"
+					  android:orientation="horizontal">
+
+			<Button android:layout_width="wrap_content"
+					android:layout_height="60dp"
+					android:layout_weight="1"
+					android:text="配置"/>
+			<Button android:layout_width="wrap_content"
+					android:layout_height="60dp"
+					android:layout_weight="1"
+					android:id="@+id/bt_bluetooth_close"
+					android:text="返回"/>
+
+		</LinearLayout>
+
+	</LinearLayout>
+
+</RelativeLayout>
